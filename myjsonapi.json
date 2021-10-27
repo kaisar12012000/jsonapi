@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "influencer_name": "Kaisaruddin Chaudhary",
+        "influencer_instagram": "https://www.instagram.com/kaisaruddinchaudhary",
+        "influencer_media": "uploaded_media/image4.jpg"
+    },
+    {
+        "id": 2,
+        "influencer_name": "Samreen Chaudhary",
+        "influencer_instagram": "https://www.instagram.com/sam.reen_firdous",
+        "influencer_media": "uploaded_media/image1.jpg"
+    },
+    {
+        "id": 3,
+        "influencer_name": "Anas Khan",
+        "influencer_instagram": "https://www.instagram.com/anas_j_khan",
+        "influencer_media": "uploaded_media/image2.jpg"
+    },
+    {
+        "id": 4,
+        "influencer_name": "Altamash rahi",
+        "influencer_instagram": "https://www.instagram.com/rahi4194",
+        "influencer_media": "uploaded_media/image3.jpg"
+    },
+    {
+        "id": 5,
+        "influencer_name": "Anas Khan",
+        "influencer_instagram": "https://www.instagram.com/anas_j_khan",
+        "influencer_media": "uploaded_media/image6.jpg"
+    },
+    {
+        "id": 6,
+        "influencer_name": "Altamash rahi",
+        "influencer_instagram": "https://www.instagram.com/rahi4194",
+        "influencer_media": "uploaded_media/image5.jpg"
+    }
+]
